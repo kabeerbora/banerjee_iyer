@@ -1,1 +1,1 @@
-# banerjee_iyer
+# Banerjee \& Iyer Replication
